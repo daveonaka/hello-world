@@ -1,2 +1,2 @@
 # hello-world
-Got Training repository
+Git Training repository
